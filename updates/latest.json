@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "notes": "Обновление Germania CRM",
-  "pub_date": "2026-11-08T16:22:50.322Z",
+  "version": "0.1.2",
+  "notes": "Переводы новостей, колокольчик, видео в ленте",
+  "pub_date": "2026-11-08T17:42:17.097Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnFJK0lqWlAzaEU2YUZjdHhFbnIwMFFXWTdqaDE2eDJFZWx4bVh6N2Y3alRaeUJXcXVON3hrTVF3dlJOdGZLR2kwcXJHblVlSktRcGxEZVZncGp0SVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzMzM2CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpNYzZXU2tVL2tjdk5pMGlYUS9Sb1M5Z0ZaMmRoUy9zMzdoZHZ0bnJBWjVXN2Y0Y2R3UVNrYXhpMkNWeWZ0anJtbWlUMW5ZNHRwUlU0aEFKQ21BZWhCQT09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2Zm56NjdXYmJjVVBpTjBFM2U4ZEMrT1NWTXBPcFhkTzBPTDdqTVpuamh0TXczNVB1ZDNmMk84Y3ZMRldwSm96bWJRUHRqZWdsR28zS1MvZ25vVEF5YXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU0NDI0CWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpGTzdNOEIra1lEUkhmVGE3N0hqcVU0c01PNTduVDVETytaSmtLWmNKQ2pTMjZYVzFmNFZ6cDlQQkN6QzFhWTQ3U3FRL1JxVUV2ZXdxd3RVV1VMQ2xDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2Zm9OeE85VUh4VjNIdnEvbTU1UjhXYWJab2xabkp5TjMvNkdnZnNZODA0UzBIYXRMeThBM2pGWkFEVnp6Y3JzejZLdHlsYXZySi80RXdoUCt3SlB4emc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NTYyCWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgpLak9wVkNSU0hUb01adTM1c0xGem9DWVNLQnJTTFdkMVdnbC91UThqVEVnQVh2ZHhOK2FPY2tmWDM2QkJobVMrM3NRaHlwZzZYKzRDL3JHVGs5aVdCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.2_x64-setup.exe"
     }
   }
 }
