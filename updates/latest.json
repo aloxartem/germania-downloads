@@ -1,14 +1,14 @@
 {
   "version": "0.1.2",
-  "notes": "Переводы новостей, колокольчик, видео в ленте",
-  "pub_date": "2026-11-08T17:42:17.097Z",
+  "notes": "Обновление Germania CRM",
+  "pub_date": "2026-11-08T17:49:54.739Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnFJK0lqWlAzaEU2YUZjdHhFbnIwMFFXWTdqaDE2eDJFZWx4bVh6N2Y3alRaeUJXcXVON3hrTVF3dlJOdGZLR2kwcXJHblVlSktRcGxEZVZncGp0SVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzMzM2CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpNYzZXU2tVL2tjdk5pMGlYUS9Sb1M5Z0ZaMmRoUy9zMzdoZHZ0bnJBWjVXN2Y0Y2R3UVNrYXhpMkNWeWZ0anJtbWlUMW5ZNHRwUlU0aEFKQ21BZWhCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnI3ZGl3NHJmL05SZXZpbk5ScGc4RTJoSzQ5b1paTXpRTjAzQStDYmFpd3I5ZFQ5QytLbjI5VW95Y2hNSnN5VkNIbVpBaHJzWEtDR3BmNm1sbEtubGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NDQ4CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgpWeU1qc3JQSVZoeTZWU0pURXNNZmNpWTBOMjllUVhYNWRTTkhKM0p1SGt0U084OHd4Vnhtc3FRUjBSYVJJdUdqR3VwR3NKb3hQZE1WUHF1dkJ3SWxBUT09Cg==",
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnFJK0lqWlAzaEU2YUZjdHhFbnIwMFFXWTdqaDE2eDJFZWx4bVh6N2Y3alRaeUJXcXVON3hrTVF3dlJOdGZLR2kwcXJHblVlSktRcGxEZVZncGp0SVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTUzMzM2CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpNYzZXU2tVL2tjdk5pMGlYUS9Sb1M5Z0ZaMmRoUy9zMzdoZHZ0bnJBWjVXN2Y0Y2R3UVNrYXhpMkNWeWZ0anJtbWlUMW5ZNHRwUlU0aEFKQ21BZWhCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnI3ZGl3NHJmL05SZXZpbk5ScGc4RTJoSzQ5b1paTXpRTjAzQStDYmFpd3I5ZFQ5QytLbjI5VW95Y2hNSnN5VkNIbVpBaHJzWEtDR3BmNm1sbEtubGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NDQ4CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgpWeU1qc3JQSVZoeTZWU0pURXNNZmNpWTBOMjllUVhYNWRTTkhKM0p1SGt0U084OHd4Vnhtc3FRUjBSYVJJdUdqR3VwR3NKb3hQZE1WUHF1dkJ3SWxBUT09Cg==",
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "windows-x86_64": {
