@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "notes": "Обновление Germania CRM",
-  "pub_date": "2026-11-16T11:33:59.581Z",
+  "pub_date": "2026-11-16T11:54:03.137Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnI3ZGl3NHJmL05SZXZpbk5ScGc4RTJoSzQ5b1paTXpRTjAzQStDYmFpd3I5ZFQ5QytLbjI5VW95Y2hNSnN5VkNIbVpBaHJzWEtDR3BmNm1sbEtubGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NDQ4CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgpWeU1qc3JQSVZoeTZWU0pURXNNZmNpWTBOMjllUVhYNWRTTkhKM0p1SGt0U084OHd4Vnhtc3FRUjBSYVJJdUdqR3VwR3NKb3hQZE1WUHF1dkJ3SWxBUT09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnY3RlkrQWFsb3JLTGtpamFoMm16YldJRlMrV1BWUUdiUEkrTkQ2cWR2WExZLy9ud2RFZ0RjSHhTa2VkUzRuVzhUTHhCM2hCallmZ083YWNpYnRvNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI4MjkyCWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgo1dEhxM3l3SktXRUtUOFJLUWxZQ1VyUVRkUk9tUkJKcXM0OTY2YzFRelBnZ3JjbUs1bmNoMVhBcUIzNTZFNWl0RG1reDVNcVFaVXljV283YW5XeENBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2Zm9VSHdBWVgyU2tZSTNiZWRlMkdObm1pbjNUUnlhMFdVZmZwa2lvVHhRYkpiNEFaWnIzUVpIaGV5eTFFY25RMmFJNXk1WWtMbWdjRUo3OGdhL2JDQUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI5NDkzCWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwo4K0VvZ0wvcnVwdysrU0YyZUIrS1NsKzBITDNXZEh6V2hOVXlOcHJuNmU3c3drdlZQZmpueCtXcWpGclZJbUdMTW9ZckllS2VLcTc2STZMMUtjWndBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.3_x64-setup.exe"
     }
   }
 }
