@@ -1,7 +1,7 @@
 {
   "version": "0.1.2",
   "notes": "Обновление Germania CRM",
-  "pub_date": "2026-11-08T17:49:54.739Z",
+  "pub_date": "2026-11-16T11:33:59.581Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnI3ZGl3NHJmL05SZXZpbk5ScGc4RTJoSzQ5b1paTXpRTjAzQStDYmFpd3I5ZFQ5QytLbjI5VW95Y2hNSnN5VkNIbVpBaHJzWEtDR3BmNm1sbEtubGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NDQ4CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgpWeU1qc3JQSVZoeTZWU0pURXNNZmNpWTBOMjllUVhYNWRTTkhKM0p1SGt0U084OHd4Vnhtc3FRUjBSYVJJdUdqR3VwR3NKb3hQZE1WUHF1dkJ3SWxBUT09Cg==",
@@ -12,7 +12,7 @@
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2Zm9OeE85VUh4VjNIdnEvbTU1UjhXYWJab2xabkp5TjMvNkdnZnNZODA0UzBIYXRMeThBM2pGWkFEVnp6Y3JzejZLdHlsYXZySi80RXdoUCt3SlB4emc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NTYyCWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgpLak9wVkNSU0hUb01adTM1c0xGem9DWVNLQnJTTFdkMVdnbC91UThqVEVnQVh2ZHhOK2FPY2tmWDM2QkJobVMrM3NRaHlwZzZYKzRDL3JHVGs5aVdCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnY3RlkrQWFsb3JLTGtpamFoMm16YldJRlMrV1BWUUdiUEkrTkQ2cWR2WExZLy9ud2RFZ0RjSHhTa2VkUzRuVzhUTHhCM2hCallmZ083YWNpYnRvNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI4MjkyCWZpbGU6R2VybWFuaWEgQ1JNXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgo1dEhxM3l3SktXRUtUOFJLUWxZQ1VyUVRkUk9tUkJKcXM0OTY2YzFRelBnZ3JjbUs1bmNoMVhBcUIzNTZFNWl0RG1reDVNcVFaVXljV283YW5XeENBdz09Cg==",
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.2_x64-setup.exe"
     }
   }
