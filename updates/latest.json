@@ -1,7 +1,7 @@
 {
   "version": "0.1.5",
-  "notes": "Версия 0.1.5",
-  "pub_date": "2026-11-16T19:55:52.388Z",
+  "notes": "Версия 0.1.5: исправлен показ тарифа",
+  "pub_date": "2026-11-16T20:09:17.271Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnJZbEYxLzFFMTA2RmhxRTkwV2FsTnk1MXVCOGlOb0ZmVXZyMSswbjFwcTd2cEUyNForck40TnNsV3d1eW1uYnRJNUhsZ2NPL2pVUG9XY1JKdXk3RFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4OTM5CWZpbGU6R2VybWFuaWEgQ1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpIZ21iRnFQdk00WU1uTkZSU0lhRVc3MlZyS0xEYVRXSXpDZkpYR1ZySGV2NDBOOStpTEZrUEtFMmdFanlxZzlZbmVvZVhYeTU3SDFKNjN1MmErekJEQT09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2Zm4rV1NueUY5ZFZvaWdzVFY5Z2dKZjhIUmZtNGpoeVN0VkJFTFRicjY3NGxxV2JQUUhGU0sxMm9hVkxjMk82S1hKSDhGcHM3ZS9NOFNnb3Mxem1JeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4MTg1CWZpbGU6R2VybWFuaWEgQ1JNXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApBa0NMWFdTSHRXaFhHOHlGckhka1FOY0wxeWVpUGY4bkJXL0dlN2owa0hBNFRmaytWMWJSbXE5KzgrMVo0L1V4eHlKWmo1Z0lFK05tMU50Z3REVGhCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTHI1Qzc2VXp2ZnVzb2dGNzFPMnJYZFVSdUZPYU4ya2xLNzdhWnZ6N3dEY1VwT2VmODl1ZHRSTUdmRmEwWGRKa3F5cWttVEpnTGFCOUcxZ25OTGtDYmNORkdJaVBaQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU5NjA1CWZpbGU6R2VybWFuaWEgQ1JNXzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQpDbjIyLy9NSzh6UDlOaWVwYjVDSnNFekFFZG9TUmZtUk1IaTdjWkNqUC9IY1RzYVdZL0dvVWdjeldxK0ExTzBaVWQ4YVJWTHpEdWgwMnczNFBocHZCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/aloxartem/germania-downloads/main/updates/Germania%20CRM_0.1.5_x64-setup.exe"
     }
   }
 }
